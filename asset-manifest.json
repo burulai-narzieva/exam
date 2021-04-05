@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/advan-exam2/static/css/main.d88554af.chunk.css",
-    "main.js": "/advan-exam2/static/js/main.d8260461.chunk.js",
-    "main.js.map": "/advan-exam2/static/js/main.d8260461.chunk.js.map",
-    "runtime-main.js": "/advan-exam2/static/js/runtime-main.bd10d7c9.js",
-    "runtime-main.js.map": "/advan-exam2/static/js/runtime-main.bd10d7c9.js.map",
-    "static/js/2.52523d18.chunk.js": "/advan-exam2/static/js/2.52523d18.chunk.js",
-    "static/js/2.52523d18.chunk.js.map": "/advan-exam2/static/js/2.52523d18.chunk.js.map",
-    "index.html": "/advan-exam2/index.html",
-    "static/css/main.d88554af.chunk.css.map": "/advan-exam2/static/css/main.d88554af.chunk.css.map",
-    "static/js/2.52523d18.chunk.js.LICENSE.txt": "/advan-exam2/static/js/2.52523d18.chunk.js.LICENSE.txt",
-    "static/media/anne.02bd1fa7.jpg": "/advan-exam2/static/media/anne.02bd1fa7.jpg",
-    "static/media/harry potter.69df2e5e.jpg": "/advan-exam2/static/media/harry potter.69df2e5e.jpg",
-    "static/media/shantaram1.67246944.png": "/advan-exam2/static/media/shantaram1.67246944.png"
+    "main.css": "/exam/static/css/main.d88554af.chunk.css",
+    "main.js": "/exam/static/js/main.d8260461.chunk.js",
+    "main.js.map": "/exam/static/js/main.d8260461.chunk.js.map",
+    "runtime-main.js": "/exam/static/js/runtime-main.693d73e4.js",
+    "runtime-main.js.map": "/exam/static/js/runtime-main.693d73e4.js.map",
+    "static/js/2.52523d18.chunk.js": "/exam/static/js/2.52523d18.chunk.js",
+    "static/js/2.52523d18.chunk.js.map": "/exam/static/js/2.52523d18.chunk.js.map",
+    "index.html": "/exam/index.html",
+    "static/css/main.d88554af.chunk.css.map": "/exam/static/css/main.d88554af.chunk.css.map",
+    "static/js/2.52523d18.chunk.js.LICENSE.txt": "/exam/static/js/2.52523d18.chunk.js.LICENSE.txt",
+    "static/media/anne.02bd1fa7.jpg": "/exam/static/media/anne.02bd1fa7.jpg",
+    "static/media/harry potter.69df2e5e.jpg": "/exam/static/media/harry potter.69df2e5e.jpg",
+    "static/media/shantaram1.67246944.png": "/exam/static/media/shantaram1.67246944.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd10d7c9.js",
+    "static/js/runtime-main.693d73e4.js",
     "static/js/2.52523d18.chunk.js",
     "static/css/main.d88554af.chunk.css",
     "static/js/main.d8260461.chunk.js"
