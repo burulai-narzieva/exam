@@ -1,0 +1,24 @@
+.Card {
+    background-color: #e98dca;
+    border: 1px;
+    border-radius: 5px;
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+  
+  }
+ 
+.block{
+    display: flex;
+    
+}
+
+.Pic {
+    width: 250px;
+    height: 300px;
+    margin: 20px;
+}
+
+
+
+  
